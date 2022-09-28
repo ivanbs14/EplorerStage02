@@ -1,4 +1,4 @@
-# EplorerStage02
+# Desafio 01 Frontend
 Html, Css
 
 Criação de uma pagina com Html, Css.
